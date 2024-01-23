@@ -2,16 +2,20 @@
 
 ## Project's design overview
 
-> Give an overview of your project's design
+Our cloud hosting website boasts a sleek, modern design with a blue color palette for a touch of innovation and stability. Navigating through our site is intuitive, complemented by high-quality visuals showcasing the scalability of our cloud solutions.
 
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+### Color scheme
 
----
+- **light-blue**: #B8DBD9;
+- **blue**: #30638E;
+- **background**: #F5F6F4;
+- **black**: #092635;
+- **white**: FBF9F1;
+
+### Logo
+
+![Logo](/public/img/logo.svg)
 
 ## Wireframe(s)
 
-> Include your wireframe(s) and link to wireframe
-
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+![Wireframe](/public/img/wireframe.png)
