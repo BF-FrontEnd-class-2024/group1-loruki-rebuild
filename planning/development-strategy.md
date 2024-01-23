@@ -1,7 +1,4 @@
 # LORUKI REBUILD
-
-<!-- describe your project -->
-
 ---This collaborative project involves reconstructing the Loruki. The emphasis
 is on group learning, encouraging team members to creatively explore and
 understand web development concepts. Participants have the flexibility to modify
@@ -9,32 +6,13 @@ features, fostering a hands-on learning experience.
 
 ## Setup
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
-
 ---Clone the repository, open the main HTML file, and explore the reconstructed
 Loruki website. The setup includes essential HTML, CSS, and JavaScript files,
 with cloned Loruki website assets for reference.
 
-<!-- copy this section once for each must-have user story -->
-
 ## user story
 
-<!-- each issue created from this section will have the `for: user story` label -->
-
-> As a user, I can explore the reconstructed Loruki website,to learn more about
-> the individual's skills and achievements.
-
-<!-- write any extra notes or description -->
-
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+> As a user, I can explore the reconstructed Loruki website,to learn more about the individual's skills and achievements.
 
 ### Logic: user story
 
