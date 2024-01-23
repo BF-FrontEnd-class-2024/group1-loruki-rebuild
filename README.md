@@ -1,6 +1,10 @@
-# Name of project
+# LORUKI REBUILD
 
-> A longer description
+> In this group project, participants collaboratively reconstruct the Loruki
+> website, leveraging creative freedom to explore and apply web development
+> concepts. The emphasis is on collective learning and hands-on experience,
+> allowing the team to diverge from the original tutorial and make unique
+> contributions to the project.
 
 ## Table of contents
 
