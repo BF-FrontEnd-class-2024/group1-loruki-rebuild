@@ -1,55 +1,42 @@
-# Project Name
-
-<!-- describe your project -->
-
----
+# LORUKI REBUILD
+---This collaborative project involves reconstructing the Loruki. The emphasis
+is on group learning, encouraging team members to creatively explore and
+understand web development concepts. Participants have the flexibility to modify
+features, fostering a hands-on learning experience.
 
 ## Setup
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
-
----
-
-<!-- copy this section once for each must-have user story -->
+---Clone the repository, open the main HTML file, and explore the reconstructed
+Loruki website. The setup includes essential HTML, CSS, and JavaScript files,
+with cloned Loruki website assets for reference.
 
 ## user story
 
-<!-- each issue created from this section will have the `for: user story` label -->
-
-> "as a ... i can ... so that ..."
-
-<!-- write any extra notes or description -->
-
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+> As a user, I can explore the reconstructed Loruki website,to learn more about the individual's skills and achievements.
 
 ### Logic: user story
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- [ ] Implement the basic project structure.
+- [ ] Set up necessary HTML, CSS, and JavaScript files.
+- [ ] Clone the Loruki website assets (images, stylesheets, etc.) for reference.
+- [ ] Create a simple navigation structure.
 
 ### Interface: user story
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- [ ] Design and implement the homepage layout.
+- [ ] Customize the Loruki website styles to match the original or add creative
+      modifications.
 
 ### Interaction: user story
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- [ ] Implement any necessary interactivity using JavaScript.
+- [ ] Ensure responsive design for various screen sizes.
+- [ ] Validate user inputs or actions, providing feedback as needed.
 
 ### Documentation: user story
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- [ ] Document the project setup process for other team members.
+- [ ] Create a README file explaining the purpose of the project, setup
+      instructions, and any additional notes.
+- [ ] Add comments to the codebase for better understanding and future
+      reference.

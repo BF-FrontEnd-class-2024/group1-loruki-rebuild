@@ -2,13 +2,16 @@
 
 - **Platform:** We'll be using Slack for team communication.
 - **Task Allocation:** Divide the project among team members.
-- **Collaboration:** Utilize Pull Requests and GitHub Discussions for effective collaboration.
+- **Collaboration:** Utilize Pull Requests and GitHub Discussions for effective
+  collaboration.
 - **Support:** Encourage helping and guiding each other throughout the project.
 
 # Team Availability
 
 - **Availability for Calls/Messaging:**
+
   - Date: January 23-24
+
   - Time: 9:00 AM to 5:00 PM
 
 - **Daily Working Hours:**
