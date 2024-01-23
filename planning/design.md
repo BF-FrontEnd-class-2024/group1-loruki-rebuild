@@ -7,9 +7,9 @@ Our cloud hosting website boasts a sleek, modern design with a blue color palett
 ### Color scheme
 
 - **light-blue**: #B8DBD9;
-- **blue**: #30638E;
-- **background**: #F5F6F4;
-- **black**: #092635;
+- **blue**: #3454D1;
+- **background**: #EDF7F6;
+- **black**: #32322C;
 - **white**: FBF9F1;
 
 ### Logo
