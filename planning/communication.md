@@ -8,7 +8,7 @@
 # Team Availability
 
 - **Availability for Calls/Messaging:**
-  - Date: January 22
+  - Date: January 23-24
   - Time: 9:00 AM to 5:00 PM
 
 - **Daily Working Hours:**
