@@ -50,36 +50,6 @@ a {
   margin-bottom: 15px;
 }
 
-/* Features styles */
-.features {
-  text-align: center;
-  margin-top: 20px;
-}
-
-.features-text {
-  font-size: 24px;
-  font-weight: bold;
-  color: #30638e;
-}
-
-.icons-container {
-  display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
-  margin-top: 20px;
-}
-
-.icon-container {
-  text-align: center;
-  margin: 10px;
-}
-
-.icons {
-  text-decoration: none;
-  color: #30638e;
-  font-size: 48px;
-}
-
 /* Footer styles */
 .footer {
   background: #b8dbd9;
@@ -170,8 +140,6 @@ a {
   display: flex;
   align-items: center;
 }
-
-
 
 .footer-links a:hover {
   opacity: 1;
