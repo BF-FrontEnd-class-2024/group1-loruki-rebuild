@@ -117,23 +117,12 @@ a {
 
 .social-links a {
   text-decoration: none;
-  color: #30638e;
+  color: #fff;
   font-size: 24px;
   margin-right: 15px;
-}
+  }
 
 /* Hover effects */
-.social-links a:hover,
-.footer-nav a:hover {
-  color: #3498db;
-}
-
-/* Additional styles for the previous footer design */
-.footer-links {
-  display: flex;
-  align-items: center;
-}
-
 .footer-links a {
   color: black;
   opacity: 0.15;
@@ -144,43 +133,4 @@ a {
 
 .footer-links a:hover {
   opacity: 1;
-}
-
-footer .fa-heart {
-  color: #d23333;
-}
-.features-text {
-  text-align: center;
-  font-size: 30px;
-}
-.icons {
-  margin: 0 20px; /* Optional: Add margin between icons */
-  font-size: 400%;
-  padding-left: 20px;
-  padding-right: 20px;
-  /* border-radius: 50%; 
-            padding: 10px; 
-            background-color: #ccc; */
-  color: #30638e;
-}
-.icons-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 0;
-}
-
-.icon-container {
-  height: 25vh;
-  width: 10vw;
-  background: #f5f6f4;
-
-  /* background-color: green; */
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-  border-radius: 8px;
-  margin: 20px;
 }
