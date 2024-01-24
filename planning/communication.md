@@ -6,7 +6,7 @@
   collaboration.
 - **Support:** Encourage helping and guiding each other throughout the project.
 
-# Team Availability
+## Team Availability
 
 - **Availability for Calls/Messaging:**
 
@@ -20,7 +20,7 @@
   - Adil: 7h
   - Daria: 7h
 
-# Seeking Help
+## Seeking Help
 
 Knowing when to seek help is key to efficient problem-solving. Here's a guide:
 
