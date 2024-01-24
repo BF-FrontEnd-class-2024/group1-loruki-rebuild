@@ -1,5 +1,4 @@
 /* Global styles */
-
 * {
   margin: 0;
   padding: 0;
@@ -12,7 +11,6 @@ body {
 }
 
 /* Header styles */
-
 header {
   display: flex;
   flex-direction: row;
@@ -44,7 +42,6 @@ a {
 }
 
 /* Banner styles */
-
 .banner img {
   background-color: #30638e;
   width: 100%;
@@ -89,6 +86,7 @@ a {
   margin: 20px;
 }
 
+
 /* Footer styles */
 .container {
   background: #092635;
@@ -125,3 +123,5 @@ a {
   font-size: 20px;
   font-weight: 700;
 }
+
+
