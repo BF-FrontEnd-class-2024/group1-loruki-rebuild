@@ -50,97 +50,78 @@ a {
   margin-bottom: 15px;
 }
 
-/* Footer styles */
-.footer {
-  background: #b8dbd9;
+/* Features styles  */
+
+.features-text {
+  text-align: center;
+  font-size: 30px;
+  margin: 60px 0;
+}
+
+.icons {
+  margin: 0 20px; /* Optional: Add margin between icons */
+  font-size: 400%;
+  padding-left: 20px;
+  padding-right: 20px;
   color: #30638e;
-  padding: 20px 0;
+}
+
+.icons-container {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 100px 100px;
+}
+
+.icon-container {
+  height: 25vh;
+  width: 10vw;
+  background: #f5f6f4;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 10px rgba(0 0 0 / 30%);
+  border-radius: 8px;
+  margin: 20px;
+}
+
+
+/* Footer styles */
+.container {
+  background: #092635;
+  color: #f5f6f4;
+  display: flex;
+  flex-direction: row;
   align-items: center;
   justify-content: space-between;
-}
-
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
-.grid-3 {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 20px;
-}
-
-.footer-content {
-  flex: 1; /* Take remaining space */
-}
-
-.footer-content h1 {
-  font-size: 24px;
-  margin-bottom: 10px;
-}
-
-.footer-content p {
-  font-size: 14px;
-  color: #30638e;
+  padding: 40px 100px;
 }
 
 .footer-nav {
-  flex: 1; /* Take remaining space */
-}
-
-.footer-nav ul {
-  list-style: none;
-  padding: 0;
   display: flex;
-  justify-content: flex-end; /* Align navigation to the right */
-}
-
-.footer-nav li {
-  margin-right: 20px;
-}
-
-.footer-nav a {
-  text-decoration: none;
-  color: #30638e;
+  flex-direction: row;
+  gap: 40px;
   font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
 }
 
 .social-links {
-  flex: 1; /* Take remaining space */
+  font-size: 16px;
   display: flex;
-
-  /* justify-content: flex-end; Remove this line */
+  flex-direction: row;
+  gap: 20px;
 }
 
-.social-links a {
-  text-decoration: none;
-  color: #30638E;
-  font-size: 24px;
-  margin-right: 15px;
+.footer-content p {
+  font-size: 16px;
+  font-weight: 400;
 }
 
-/* Hover effects */
-.footer-links a {
-  color: #F5F6F4;
-  opacity: 0.15;
-  text-decoration: none;
-  font-size: 24px;
-  padding: 0 10px;
+.footer-content h2 {
+  font-size: 20px;
+  font-weight: 700;
 }
 
-.social-links a:hover,
-.footer-nav a:hover,
-.footer-links a:hover {
-  color: #3498db;
-}
 
-/* Additional styles for the previous footer design */
-.footer-links {
-  display: flex;
-  align-items: center;
-}
-
-.footer-links a:hover {
-  opacity: 1;
-}
