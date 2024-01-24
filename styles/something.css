@@ -117,23 +117,12 @@ a {
 
 .social-links a {
   text-decoration: none;
-  color: #30638e;
+  color: #fff;
   font-size: 24px;
   margin-right: 15px;
-}
+  }
 
 /* Hover effects */
-.social-links a:hover,
-.footer-nav a:hover {
-  color: #3498db;
-}
-
-/* Additional styles for the previous footer design */
-.footer-links {
-  display: flex;
-  align-items: center;
-}
-
 .footer-links a {
   color: black;
   opacity: 0.15;
@@ -144,8 +133,4 @@ a {
 
 .footer-links a:hover {
   opacity: 1;
-}
-
-footer .fa-heart {
-  color: #d23333;
 }
