@@ -1,4 +1,5 @@
 # LORUKI REBUILD
+
 ---This collaborative project involves reconstructing the Loruki. The emphasis
 is on group learning, encouraging team members to creatively explore and
 understand web development concepts. Participants have the flexibility to modify
@@ -12,7 +13,8 @@ with cloned Loruki website assets for reference.
 
 ## user story
 
-> As a user, I can explore the reconstructed Loruki website,to learn more about the individual's skills and achievements.
+> As a user, I can explore the reconstructed Loruki website,to learn more about
+> the individual's skills and achievements.
 
 ### Logic: user story
 
