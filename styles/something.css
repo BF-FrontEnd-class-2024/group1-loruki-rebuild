@@ -124,4 +124,30 @@ a {
   font-weight: 700;
 }
 
+posts
+/* Cli */
 
+/* Cloud */
+
+.container1,
+.container2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 100px;
+}
+
+.terminal,
+.hosting {
+  width: 500px;
+  border-radius: 30px;
+}
+
+.text1,
+.text2 {
+  border: 5px solid #b8dbd9;
+  border-radius: 30px;
+  padding: 40px;
+  width: 275px;
+}
