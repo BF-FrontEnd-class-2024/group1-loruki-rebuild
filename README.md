@@ -1,24 +1,28 @@
-# Name of project
+# Loruki rebuild
 
-> A longer description
+> In this group project, participants collaboratively reconstruct the Loruki
+> website, leveraging creative freedom to explore and apply web development
+> concepts. The emphasis is on collective learning and hands-on experience,
+> allowing the team to diverge from the original tutorial and make unique
+> contributions to the project.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
-  - [Table of contents](#table-of-contents)
-  - [General info](#general-info)
-  - [Screenshots](#screenshots)
-  - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Code Examples](#code-examples)
-  - [Features](#features)
-  - [Status](#status)
-  - [Inspiration](#inspiration)
-  - [Contact](#contact)
-  - [Instructions for use](#instructions-for-use)
-  - [Code Quality Checks](#code-quality-checks)
-  - [Continuous Integration (CI)](#continuous-integration-ci)
-  - [Repo Setup](#repo-setup)
+- [Loruki rebuild](#Loruki rebuild)
+- [Table of contents](#table-of-contents)
+- [General info](#general-info)
+- [Screenshots](#screenshots)
+- [Technologies](#technologies)
+- [Setup](#setup)
+- [Code Examples](#code-examples)
+- [Features](#features)
+- [Status](#status)
+- [Inspiration](#inspiration)
+- [Contact](#contact)
+- [Instructions for use](#instructions-for-use)
+- [Code Quality Checks](#code-quality-checks)
+- [Continuous Integration (CI)](#continuous-integration-ci)
+- [Repo Setup](#repo-setup)
 
 ## General info
 
