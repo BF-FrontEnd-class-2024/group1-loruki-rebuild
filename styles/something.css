@@ -86,7 +86,6 @@ a {
   margin: 20px;
 }
 
-
 /* Footer styles */
 .container {
   background: #092635;
@@ -124,9 +123,6 @@ a {
   font-weight: 700;
 }
 
-posts
-/* Cli */
-
 /* Cloud */
 
 .container1,
@@ -134,20 +130,32 @@ posts
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-between;
-  padding: 100px;
+  justify-content: center;
+  gap: 150px;
+  padding: 50px 0;
 }
 
 .terminal,
 .hosting {
   width: 500px;
+  height: 300px;
   border-radius: 30px;
 }
 
 .text1,
 .text2 {
+  display: flex;
+  flex-direction: column;
   border: 5px solid #b8dbd9;
   border-radius: 30px;
   padding: 40px;
   width: 275px;
+}
+
+.text1 p {
+  font-weight: 400;
+}
+
+.text2 p {
+  font-weight: 400;
 }
