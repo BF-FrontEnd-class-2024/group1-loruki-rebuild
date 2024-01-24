@@ -147,15 +147,23 @@ a {
   display: flex;
   flex-direction: column;
   border: 5px solid #b8dbd9;
-  border-radius: 30px;
   padding: 40px;
+  border-radius: 30px;
   width: 275px;
 }
 
-.text1 p {
+.text1 p,
+.text2 p {
   font-weight: 400;
 }
 
-.text2 p {
-  font-weight: 400;
+.button1 {
+  background-color: #30638e;
+  border: 2px solid #b8dbd9;
+  border-radius: 30px;
+  text-align: center;
+}
+
+.button1:hover {
+  background-color: #b8dbd9;
 }
