@@ -1,5 +1,4 @@
 /* Global styles */
-
 * {
   margin: 0;
   padding: 0;
@@ -12,7 +11,6 @@ body {
 }
 
 /* Header styles */
-
 header {
   display: flex;
   flex-direction: row;
@@ -44,13 +42,42 @@ a {
 }
 
 /* Banner styles */
-
 .banner img {
   background-color: #30638e;
   width: 100%;
   height: auto;
   display: block;
   margin-bottom: 15px;
+}
+
+/* Features styles */
+.features {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.features-text {
+  font-size: 24px;
+  font-weight: bold;
+  color: #30638e;
+}
+
+.icons-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.icon-container {
+  text-align: center;
+  margin: 10px;
+}
+
+.icons {
+  text-decoration: none;
+  color: #30638e;
+  font-size: 48px;
 }
 
 /* Footer styles */
@@ -112,24 +139,39 @@ a {
 .social-links {
   flex: 1; /* Take remaining space */
   display: flex;
-  justify-content: flex-end; /* Align social links to the right */
+
+  /* justify-content: flex-end; Remove this line */
 }
 
 .social-links a {
   text-decoration: none;
-  color: #fff;
+  color: #30638E;
   font-size: 24px;
   margin-right: 15px;
-  }
+}
 
 /* Hover effects */
 .footer-links a {
-  color: black;
+  color: #F5F6F4;
   opacity: 0.15;
   text-decoration: none;
   font-size: 24px;
   padding: 0 10px;
 }
+
+.social-links a:hover,
+.footer-nav a:hover,
+.footer-links a:hover {
+  color: #3498db;
+}
+
+/* Additional styles for the previous footer design */
+.footer-links {
+  display: flex;
+  align-items: center;
+}
+
+
 
 .footer-links a:hover {
   opacity: 1;
